@@ -59,12 +59,6 @@ If your app has an admin role, this section is for managing library operations.
 
 ---
 
-### **8. Notifications (Optional)**  
-- **Push Notifications**: Display notifications for overdue books, new arrivals, or any important alerts.
-- **In-App Notifications**: Show notifications on the UI, like upcoming due dates or book availability.
-
----
-
 ### **Technologies and Tools Used in Frontend:**
 
 - **Flutter**: Use Flutter for cross-platform mobile development (iOS and Android).
